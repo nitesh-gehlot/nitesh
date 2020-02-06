@@ -1,0 +1,53 @@
+    1  git init
+    2  git remote add origin https://github.com/Afzal-Ali-1/Python_2019-2020.git
+    3  git remote show origin
+    4  git remote shpw
+    5  git remote show
+    6  git remote show origin
+    7  git show remote origin
+    8  git remote show origin
+    9  git show .
+   10  git remote show origin
+   11  git remote show origin
+   12  git add remote origin https://github.com/Afzal-Ali-1/Python_2019-2020.git
+   13  git clone https://github.com/Afzal-Ali-1/Python_2019-2020.git
+   14  git init
+   15  git clone https://github.com/Afzal-Ali-1/Python_2019-2020.git
+   16  git clone https://github.com/Afzal-Ali-1/Python_2019-2020.git
+   17  git remote show origin
+   18  git remote show origin
+   19  git show origin
+   20  git show remote
+   21  git remote -v
+   22  git show remote origin
+   23  git show remote origin
+   24  git show
+   25  git show
+   26  git show origin
+   27  git show remote 
+   28  git show remote
+   29  history
+   30  git remote show origin
+   31  git remote show origin
+   32  git pull origin master
+   33  git init
+   34  git remote add origin https://github.com/Afzal-Ali-1/Python_2019-2020.git
+   35  git remote show origin
+   36  git status
+   37  git add .
+   38  git status
+   39  git commit -m 
+   40  git commit -m "s"
+   41  git config --global user.name "nitesh"
+   42  git config --global user.email "niteshgehlot147@gmail.com"
+   43  git commit -m "s"
+   44  git push -u origin master
+   45  git pull origin master
+   46  git init
+   47  git remote add origin https://github.com/Afzal-Ali-1/Python_2019-2020.git
+   48  git pull origin master
+   49  history
+   50  git log
+   51  git log
+   52  history
+   53  history > afzal.txt
